@@ -67,6 +67,7 @@ panorama_706F5F00_259C_ADEE_41CA_6955D121470B.label = ห้องน้ำส�
 
 ### Button
 Button_1FBB9171_2CB4_942E_41CA_0C49F50E0A95.label = TOP VIEW
+Button_1FBB9171_2CB4_942E_41CA_0C49F50E0A95_mobile.label = TOP VIEW
 
 ## Tour
 
