@@ -43,7 +43,6 @@ imlevel_541A8244_24FC_7476_419C_EB57FAE1C5B9.url = media/panorama_7F99C73C_259C_
 
 ### Title
 panorama_067599B9_259C_941E_41BD_DC48349F506C.label = Bathroom1
-panorama_1F6CA9F5_2C8D_B416_41B0_FD952FF2CE97.label = Front Door
 panorama_1E86F306_2C9F_95F2_41C1_E4F8C21565A5.label = Garage
 panorama_70C1A3F9_258C_B41E_41B9_A7F12BFAF590.label = Kitchen
 panorama_15ECD771_2B74_FC2E_41BE_78E34E8BF32A.label = Living Area
@@ -56,6 +55,7 @@ panorama_7397987F_248D_B412_41C4_C0669C116662.label = bahttub
 panorama_7295924D_2495_B476_41BB_55E4B5B027C9.label = ball
 panorama_04B80932_25F3_9412_41C6_6A3597A97676.label = bathroom2
 panorama_7E50AD86_2595_ECF2_4194_35F98CDF4F0E.label = bathroom4
+video_39EC3660_5CB4_BC2E_41B3_D331B871533A.label = clear-water-in-the-pool-2025-08-29-12-04-19-utc
 panorama_5BBC7453_24F3_9C12_41CB_437E037FCE80.label = garden
 panorama_7F99C73C_259C_9C16_41BF_A39B25FF4D8D.label = hallway
 panorama_71391BE4_258C_F436_4177_4079AA1CA39E.label = outdoor
@@ -65,7 +65,14 @@ panorama_08844616_2B8C_FC12_41BD_012B0C8B95EA.label = room1
 panorama_0BDD0891_258C_B4EE_41B6_3E2D06649580.label = room2
 panorama_5B72DC83_24BC_ECF2_41B0_422C337F2AC5.label = room3
 panorama_7EC8C545_258D_FC76_41CC_2C1CF19CD3E6.label = room4
+panorama_3DF6B04A_5C8D_9472_41BB_4DD3712B9D15.label = terracepool
 panorama_706F5F00_259C_ADEE_41CA_6955D121470B.label = ห้องน้ำส่วนกลาง
+
+### Video
+videolevel_C1B628C1_5C93_B46E_41B3_3AAF2333744D.url = media/video_39EC3660_5CB4_BC2E_41B3_D331B871533A_en.mp4
+videolevel_C1B628C1_5C93_B46E_41B3_3AAF2333744D.posterURL = media/video_39EC3660_5CB4_BC2E_41B3_D331B871533A_poster_en.jpg
+
+### Video Subtitles
 
 ## Skin
 
@@ -78,4 +85,4 @@ Button_1FBB9171_2CB4_942E_41CA_0C49F50E0A95_mobile.label = TOP VIEW
 ### Description
 
 ### Title
-tour.name = Miramay
+tour.name = Miramaya
