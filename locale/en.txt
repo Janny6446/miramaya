@@ -1,22 +1,46 @@
 #: locale=en
 
+## Action
+
+### URL
+LinkBehaviour_5326DF59_7268_635E_41C9_722B54D09FBF.source = https://onceinmemory.360diamondoncrown.com/once/1afeae39-9846-465d-bc5d-dfbb7fbef7ec
+LinkBehaviour_6C88BA10_7258_2CAE_41C7_95A8E51C652C.source = https://onceinmemory.360diamondoncrown.com/once/30a6912a-8ee9-4f73-a7f5-5f63f11c5391
+LinkBehaviour_6E5723E4_7228_6376_41DA_3ADD9C860647.source = https://onceinmemory.360diamondoncrown.com/once/30a6912a-8ee9-4f73-a7f5-5f63f11c5391
+LinkBehaviour_6E117079_7257_DD5E_41AC_D98900783284.source = https://onceinmemory.360diamondoncrown.com/once/30a6912a-8ee9-4f73-a7f5-5f63f11c5391
+LinkBehaviour_6F996CC9_7257_E5BE_41C9_37881D95D5D5.source = https://onceinmemory.360diamondoncrown.com/once/30a6912a-8ee9-4f73-a7f5-5f63f11c5391
+LinkBehaviour_53E30A0C_7278_2CB6_41CE_2FEF5F3FCB1C.source = https://onceinmemory.360diamondoncrown.com/once/471644b9-5fad-4285-9ba7-2a34c7ecdb77
+LinkBehaviour_53547DCF_7278_27B2_41D4_3B3B51459B42.source = https://onceinmemory.360diamondoncrown.com/once/4d3f9e34-9dc3-4392-8ddc-aa79828c0aa4
+LinkBehaviour_53A3DE0C_7278_24B6_41D6_3C234FDEEC38.source = https://onceinmemory.360diamondoncrown.com/once/60e776f9-fa41-4153-9b52-67bcab973575
+
 ## Hotspot
 
 ### Text
+HotspotPanoramaOverlayTextImage_53232F58_7268_635E_41CF_703FD25023D4.text = 1
+HotspotPanoramaOverlayTextImage_53A1CE0B_7278_24B2_41DB_76420C8D34CD.text = 2
+HotspotPanoramaOverlayTextImage_53E2FA0A_7278_2CB2_41C6_AF68EA4CD364.text = 3
+HotspotPanoramaOverlayTextImage_6F4CC49F_7258_E5D2_4189_303C44C31884.text = 360° album
+HotspotPanoramaOverlayTextImage_52BB8AE8_726B_ED7E_41D3_39645A90CC39.text = 4
+HotspotPanoramaOverlayTextImage_53528DCE_7278_27B2_41D5_D8B9D18BF039.text = BOOK NOW
+HotspotPanoramaOverlayTextImage_6C12123D_7258_3CD6_41D4_9DD84AB7AEB0.text = BOOK NOW
+HotspotPanoramaOverlayTextImage_53E24A0B_7278_2CB2_41CC_33DF7B758B52.text = BOOK NOW
+HotspotPanoramaOverlayTextImage_6951E666_7228_2572_41DA_63E146F30129.text = BOOK NOW
+HotspotPanoramaOverlayTextImage_53A11E0C_7278_24B6_41DB_FA5C6AFE6C42.text = BOOK NOW
+HotspotPanoramaOverlayTextImage_53256F59_7268_635E_41BF_26C8489E75BF.text = BOOK NOW
 HotspotPanoramaOverlayTextImage_4C530F60_2777_AC2E_41BF_1F3A8BD0FFC4.text = Bathroom
 FlatHotspotPanoramaOverlayTextImage_CFF18E67_5CB3_AC32_41CB_46D337564D66.text = Phase 2
 FlatHotspotPanoramaOverlayTextImage_CFF25E67_5CB3_AC32_41C4_7CCCFD8982AB.text = Private Area
 HotspotPanoramaOverlayTextImage_0F64F45D_2B93_9C16_41C0_B2EED7B4EC76.text = ROOM1
 HotspotPanoramaOverlayTextImage_60076991_249C_94EE_41A8_11DDC86FBBF0.text = ROOM2
-HotspotPanoramaOverlayTextImage_7C01F330_2593_942E_41AE_C9B2DBD65992.text = ROOM2
 HotspotPanoramaOverlayTextImage_6C82B555_2495_9C16_41C5_1901C73A8077.text = ROOM2
 HotspotPanoramaOverlayTextImage_68595756_248C_7C12_41B2_FFB72DC0C55F.text = ROOM2
+HotspotPanoramaOverlayTextImage_7C01F330_2593_942E_41AE_C9B2DBD65992.text = ROOM2
 HotspotPanoramaOverlayTextImage_6551CBEE_24BC_B432_41AA_B64FF461F08D.text = ROOM2
-HotspotPanoramaOverlayTextImage_674546F1_248D_9C2E_4161_68690CC922DE.text = ROOM3
 HotspotPanoramaOverlayTextImage_4C1A4040_2774_746E_41BA_2C594626FDD0.text = ROOM3
 HotspotPanoramaOverlayTextImage_7FF28590_259D_9CEE_418E_481081E05955.text = ROOM3
-HotspotPanoramaOverlayTextImage_73E6E812_2497_9412_41BE_5354031F69C8.text = ROOM4
+HotspotPanoramaOverlayTextImage_674546F1_248D_9C2E_4161_68690CC922DE.text = ROOM3
 HotspotPanoramaOverlayTextImage_63133EB6_249C_6C12_41CA_5AE4A8DBBF75.text = ROOM4
+HotspotPanoramaOverlayTextImage_73E6E812_2497_9412_41BE_5354031F69C8.text = ROOM4
+HotspotPanoramaOverlayTextImage_6EA8C7B7_7228_63D2_418B_EA5E8358EEA5.text = VILLA 5
 
 ## Media
 
@@ -29,6 +53,8 @@ audiores_084436C2_2B94_9C72_41C1_EF2B2BCD0DD3.mp3Url = media/audio_0FE17FF8_2B93
 
 ### Image
 imlevel_0FC2BBA8_25B7_F43E_41CE_8DD5BD4B66E8.url = media/panorama_0EBC0738_2B94_7C1E_41C2_A10A005FF019_HS_bz1nyky5_en.webp
+imlevel_527B6224_7258_3CF6_41DB_8D5BBBE19A99.url = media/panorama_1E86F306_2C9F_95F2_41C1_E4F8C21565A5_HS_59j3icn6_en.webp
+imlevel_52239258_7258_3D5E_41C7_69BEE5F6C36E.url = media/panorama_1E86F306_2C9F_95F2_41C1_E4F8C21565A5_HS_gkn8uklu_en.webp
 imlevel_5427A39E_24FC_7412_41BE_57FD05BA8778.url = media/panorama_5B72DC83_24BC_ECF2_41B0_422C337F2AC5_HS_vjapx80w_en.webp
 imlevel_5423142D_24FC_7C36_41CA_AA5BFDCAA0C7.url = media/panorama_706F5F00_259C_ADEE_41CA_6955D121470B_HS_kxacdkdh_en.webp
 imlevel_542083E2_24FC_7432_41BB_FC87DDE81025.url = media/panorama_706F5F00_259C_ADEE_41CA_6955D121470B_HS_nceyywz3_en.webp
@@ -40,10 +66,21 @@ imlevel_79916B47_259D_F472_41BC_ABE309B52BEB.url = media/panorama_7EC8C545_258D_
 imlevel_5425631F_24FC_7412_419A_37A760B57C54.url = media/panorama_7F99C73C_259C_9C16_41BF_A39B25FF4D8D_HS_cnk64hy5_en.webp
 imlevel_790BE79C_259D_FC16_41A5_E63EB1AC90BB.url = media/panorama_7F99C73C_259C_9C16_41BF_A39B25FF4D8D_HS_j4me522n_en.webp
 imlevel_541A8244_24FC_7476_419C_EB57FAE1C5B9.url = media/panorama_7F99C73C_259C_9C16_41BF_A39B25FF4D8D_HS_mdmiv2ad_en.webp
+imlevel_501C0569_7268_677E_41B4_998D8A736E34.url = media/panorama_D4E08812_5CB3_B412_41A4_8184BD2FBE63_HS_2y6axgbp_en.webp
+imlevel_53D76681_7278_25AE_41D4_4B918226092F.url = media/panorama_D4E08812_5CB3_B412_41A4_8184BD2FBE63_HS_3l84o2v4_en.webp
+imlevel_53D7269F_7278_25D2_41D9_3AAD53620796.url = media/panorama_D4E08812_5CB3_B412_41A4_8184BD2FBE63_HS_9ir5e0j0_en.webp
+imlevel_53D6962C_7278_24F6_41B2_A0267B5ED8C4.url = media/panorama_D4E08812_5CB3_B412_41A4_8184BD2FBE63_HS_byvohsjo_en.webp
 imlevel_C808DC99_7F74_6C1E_41D3_22E4BBBF049B.url = media/panorama_D4E08812_5CB3_B412_41A4_8184BD2FBE63_HS_dxklplpr_en.webp
+imlevel_53D72653_7278_2552_41C2_7DB301885E17.url = media/panorama_D4E08812_5CB3_B412_41A4_8184BD2FBE63_HS_f7mrexm7_en.webp
+imlevel_501D653E_7268_64D2_41BE_8596974BFFEC.url = media/panorama_D4E08812_5CB3_B412_41A4_8184BD2FBE63_HS_ie2ycnto_en.webp
+imlevel_501B54F2_7268_6552_41A1_04E20EB3F5C0.url = media/panorama_D4E08812_5CB3_B412_41A4_8184BD2FBE63_HS_m1lwyyts_en.webp
+imlevel_501B051E_7268_64D2_41B9_FAEE4CC39FE4.url = media/panorama_D4E08812_5CB3_B412_41A4_8184BD2FBE63_HS_nctp0ii2_en.webp
+imlevel_5018A4D4_7268_6556_41CE_397B145C1404.url = media/panorama_D4E08812_5CB3_B412_41A4_8184BD2FBE63_HS_o0sds1xg_en.webp
+imlevel_501C8587_7268_67B2_41BD_9D26B09B9586.url = media/panorama_D4E08812_5CB3_B412_41A4_8184BD2FBE63_HS_owuy3wah_en.webp
 imlevel_C50A0CBF_7F74_6C12_41A8_F57AEB02BE59.url = media/panorama_D4E08812_5CB3_B412_41A4_8184BD2FBE63_HS_xvvsdl67_en.webp
 
 ### Title
+album_5B13BA53_7258_2D52_41B6_93ECFC37C150_0.label = 1733813541057
 panorama_067599B9_259C_941E_41BD_DC48349F506C.label = Bathroom1
 panorama_1E86F306_2C9F_95F2_41C1_E4F8C21565A5.label = Garage
 panorama_70C1A3F9_258C_B41E_41B9_A7F12BFAF590.label = Kitchen
@@ -51,6 +88,7 @@ panorama_15ECD771_2B74_FC2E_41BE_78E34E8BF32A.label = Living Area
 panorama_0EBC0738_2B94_7C1E_41C2_A10A005FF019.label = Living Area Dining
 panorama_106F8144_2B8D_9476_41C8_34711BCD62AF.label = Living Area TV
 panorama_790CF09A_258C_B412_41BA_8E2349818F5F.label = Moon Front
+album_5B13BA53_7258_2D52_41B6_93ECFC37C150.label = Photo Album 1733813541057
 panorama_13112517_2B94_9C12_41C6_98019DB897D2.label = Powder room
 panorama_D4E08812_5CB3_B412_41A4_8184BD2FBE63.label = TOPVIEWF
 media_C64709B7_7F75_9412_41B3_9188D7A9841B.label = VID_20250907_175216_00_392_1
@@ -72,14 +110,36 @@ panorama_3DF6B04A_5C8D_9472_41BB_4DD3712B9D15.label = terracepool
 panorama_706F5F00_259C_ADEE_41CA_6955D121470B.label = ห้องน้ำส่วนกลาง
 
 ### Video
-videores_C987EC15_7FB5_AC16_41BF_D0232A2043A6.url = media/media_C64709B7_7F75_9412_41B3_9188D7A9841B_en.mp4
-videores_C987FC15_7FB5_AC16_41AF_128B21439DC5.url = media/media_C64709B7_7F75_9412_41B3_9188D7A9841B_en_1.mp4
-videores_C987EC15_7FB5_AC16_41BF_D0232A2043A6.posterURL = media/media_C64709B7_7F75_9412_41B3_9188D7A9841B_poster_en.jpg
-videores_C987FC15_7FB5_AC16_41AF_128B21439DC5.posterURL = media/media_C64709B7_7F75_9412_41B3_9188D7A9841B_poster_en.jpg
-videolevel_C9837BF3_7FB5_9412_419B_72C0D400057D.url = media/video_39EC3660_5CB4_BC2E_41B3_D331B871533A_en.mp4
-videolevel_C9837BF3_7FB5_9412_419B_72C0D400057D.posterURL = media/video_39EC3660_5CB4_BC2E_41B3_D331B871533A_poster_en.jpg
+videores_5B9DEF78_7238_235E_41D7_95FEA297062F.url = media/media_C64709B7_7F75_9412_41B3_9188D7A9841B_en.m3u8
+videores_5B242361_7238_236E_41D9_3E91C296FE8F.url = media/media_C64709B7_7F75_9412_41B3_9188D7A9841B_en.mp4
+videores_5B9DEF78_7238_235E_41D7_95FEA297062F.posterURL = media/media_C64709B7_7F75_9412_41B3_9188D7A9841B_poster_en.jpg
+videores_5B242361_7238_236E_41D9_3E91C296FE8F.posterURL = media/media_C64709B7_7F75_9412_41B3_9188D7A9841B_poster_en.jpg
+videolevel_5B9B1F55_7238_2356_41C1_C5FD05870AFB.url = media/video_39EC3660_5CB4_BC2E_41B3_D331B871533A_en.mp4
+videolevel_5B9B1F55_7238_2356_41C1_C5FD05870AFB.posterURL = media/video_39EC3660_5CB4_BC2E_41B3_D331B871533A_poster_en.jpg
 
 ### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_55CF9018_7258_5CDE_41D1_2F2B0BE9180F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">หากต้องการรับชมภายในตัวบ้าน สามารถเข้าชมได้ที่ villa 5 ค่ะ หากต้องการจอง villa 1 สามารถกดที่ link ด้านล่างได้เลยค่ะ</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">For a viewing of the property, you are welcome to visit Villa 5.Should you wish to make a reservation for Villa 1, please follow the link provided below.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">{{button:Text=booking__Open-website=https://onceinmemory.360diamondoncrown.com/once/1afeae39-9846-465d-bc5d-dfbb7fbef7ec__Color=#FDA403}}</SPAN></DIV></BODY></HTML></div>
+htmlText_55B91BAD_722F_E3F6_41B2_9DA1E332CB6A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">หากต้องการรับชมภายในตัวบ้าน สามารถเข้าชมได้ที่ villa 5 ค่ะ หากต้องการจอง villa 1 สามารถกดที่ link ด้านล่างได้เลยค่ะ</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">For a viewing of the property, you are welcome to visit Villa 5.Should you wish to make a reservation for Villa 1, please follow the link provided below.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">{{button:Text=booking__Open-website=https://onceinmemory.360diamondoncrown.com/once/1afeae39-9846-465d-bc5d-dfbb7fbef7ec__Color=#FDA403}}</SPAN></DIV></BODY></HTML></div>
+htmlText_5A54263A_7229_E4D2_41D8_A45D7FB07595.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">หากต้องการรับชมภายในตัวบ้าน สามารถเข้าชมได้ที่ villa 5 ค่ะ หากต้องการจอง villa 2 สามารถกดที่ link ด้านล่างได้เลยค่ะ</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">For a viewing of the property, you are welcome to visit Villa 5.Should you wish to make a reservation for Villa 2, please follow the link provided below.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">{{button:Text=booking__Open-website=https://onceinmemory.360diamondoncrown.com/once/60e776f9-fa41-4153-9b52-67bcab973575__Color=#FDA403}}</SPAN></DIV></BODY></HTML></div>
+htmlText_55EA7B4B_7228_ECB2_41D8_1E506BBE4357.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">หากต้องการรับชมภายในตัวบ้าน สามารถเข้าชมได้ที่ villa 5 ค่ะ หากต้องการจอง villa 2 สามารถกดที่ link ด้านล่างได้เลยค่ะ</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">For a viewing of the property, you are welcome to visit Villa 5.Should you wish to make a reservation for Villa 2, please follow the link provided below.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">{{button:Text=booking__Open-website=https://onceinmemory.360diamondoncrown.com/once/60e776f9-fa41-4153-9b52-67bcab973575__Color=#FDA403}}</SPAN></DIV></BODY></HTML></div>
+htmlText_5B6C4B60_7237_E36E_41B0_FE45359A295E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">หากต้องการรับชมภายในตัวบ้าน สามารถเข้าชมได้ที่ villa 5 ค่ะ หากต้องการจอง villa 3 สามารถกดที่ link ด้านล่างได้เลยค่ะ</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">For a viewing of the property, you are welcome to visit Villa 5.Should you wish to make a reservation for Villa 3, please follow the link provided below.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">{{button:Text=booking__Open-website=https://onceinmemory.360diamondoncrown.com/once/471644b9-5fad-4285-9ba7-2a34c7ecdb77__Color=#FDA403}}</SPAN></DIV></BODY></HTML></div>
+htmlText_5AEAB1CF_7229_DFB2_41CA_2E8AEA200D6E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">หากต้องการรับชมภายในตัวบ้าน สามารถเข้าชมได้ที่ villa 5 ค่ะ หากต้องการจอง villa 3 สามารถกดที่ link ด้านล่างได้เลยค่ะ</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">For a viewing of the property, you are welcome to visit Villa 5.Should you wish to make a reservation for Villa 3, please follow the link provided below.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">{{button:Text=booking__Open-website=https://onceinmemory.360diamondoncrown.com/once/471644b9-5fad-4285-9ba7-2a34c7ecdb77__Color=#FDA403}}</SPAN></DIV></BODY></HTML></div>
+htmlText_5A6672E8_7228_5D7E_41D4_BCA6290BC1E0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">หากต้องการรับชมภายในตัวบ้าน สามารถเข้าชมได้ที่ villa 5 ค่ะ หากต้องการจอง villa 4 สามารถกดที่ link ด้านล่างได้เลยค่ะ</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">For a viewing of the property, you are welcome to visit Villa 5.Should you wish to make a reservation for Villa 4, please follow the link provided below.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">{{button:Text=booking__Open-website=https://onceinmemory.360diamondoncrown.com/once/4d3f9e34-9dc3-4392-8ddc-aa79828c0aa4__Color=#FDA403}}</SPAN></DIV></BODY></HTML></div>
+htmlText_5A6F9884_7228_2DB6_41B6_771DCC731DC3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">หากต้องการรับชมภายในตัวบ้าน สามารถเข้าชมได้ที่ villa 5 ค่ะ หากต้องการจอง villa 4 สามารถกดที่ link ด้านล่างได้เลยค่ะ</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'FC Minimal Regular';">For a viewing of the property, you are welcome to visit Villa 5.Should you wish to make a reservation for Villa 4, please follow the link provided below.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">{{button:Text=booking__Open-website=https://onceinmemory.360diamondoncrown.com/once/4d3f9e34-9dc3-4392-8ddc-aa79828c0aa4__Color=#FDA403}}</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_5A5A263A_7229_E4D2_41C4_3B74C17EDBA8.title = {{style:fade-horizontal-fullyrounded-light}}
+window_5A6FB884_7228_2DB6_41C8_F0274348B990.title = {{style:fade-horizontal-fullyrounded-light}}
+window_5B6A4B60_7237_E36E_41CB_68398C59B03E.title = {{style:fade-horizontal-fullyrounded-light}}
+window_5AEA41CE_7229_DFB2_41C0_E754EDBFC8A3.title = {{style:fade-horizontal-fullyrounded-light}}
+window_5A6652E8_7228_5D7E_41CC_0F4DB5FD8444.title = {{style:fade-horizontal-fullyrounded-light}}
+window_55E85B4B_7228_ECB2_41A8_5BD46CEDFA5C.title = {{style:fade-horizontal-fullyrounded-light}}
+window_55CFD018_7258_5CDE_41D9_B1199C1A38D8.title = {{style:fade-horizontal-fullyrounded-light}}
+window_55BEFBAD_722F_E3F6_41C8_51C70B49E9C2.title = {{style:fade-horizontal-fullyrounded-light}}
 
 ## Skin
 

@@ -10,3 +10,9 @@
    font-weight: bold;
    font-style: normal;
 }
+@font-face {
+   font-family: "FC Minimal Regular";
+   src: url("fonts/FC Minimal Regular.woff") format("woff"), url("fonts/FC Minimal Regular.eot") format("embedded-opentype"), url("fonts/FC Minimal Regular.ttf") format("truetype"), url("fonts/FC Minimal Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
